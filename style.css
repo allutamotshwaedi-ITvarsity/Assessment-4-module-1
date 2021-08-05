@@ -1,0 +1,27 @@
+p
+{
+   color:black;
+        
+        
+}
+
+p1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:limegreen;
+}
+
+}
+
+table{
+    font-family:cursive;
+    border-collapse:collapse;
+    border-width: 2px;
+    border-style:solid;
+    border-color:orchid;
+
+}
+th{
+    font-weight:500;
+    background-color:violet;
+    color:powderblue;
+}
